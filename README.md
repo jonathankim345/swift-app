@@ -23,10 +23,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">Swift Application for Learning and Developing Proficiency</h3>
+<h3 align="center">Swift Application for Learning and Professional Development</h3>
 
   <p align="center">
-    project_description
+    A large program with 40+ features and relevant examples that I used to learn help the programming language of Swift.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,10 +44,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -75,23 +72,12 @@ Hello! Before my interview on the XCode Development Team at Apple, I wanted to d
 This is just a project purely for my own learning so there is no need to set it up locally! Feel free to take a look at the comments and examples in the 
 program.swift file. 
 
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
