@@ -26,9 +26,9 @@
 <h3 align="center">Swift Application for Learning and Professional Development</h3>
 
   <p align="center">
-    A large program with 40+ features and relevant examples that I used to learn help the programming language of Swift.
+    A large program with 40+ features and relevant examples that I used to learn the programming language of Swift.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jonathankim345/swift-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
