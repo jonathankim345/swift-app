@@ -19,12 +19,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Swift Application for Learning and Developing Proficiency</h3>
 
   <p align="center">
     project_description
