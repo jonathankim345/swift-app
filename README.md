@@ -48,7 +48,6 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -60,11 +59,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hello! Before my interview on the XCode Development Team at Apple, I wanted to 
+Hello! Before my interview on the XCode Development Team at Apple, I wanted to develop the capacity to become proficient quickly in Swift. Although I lacked experience with VSCode or Swift before (primarily because of my device being a Windows laptop), I still had experience with mobile and responsive application development through the use of tools like React Native and my extensive work with front-end applications. Through learning more about Swift and its unique features, I was able to compile this project which houses 40 features that I found either unique or very useful for Swift programming! I was also able to familiarize myself with the syntax, design patterns, and naming conventions through accompanying all of these features with code examples. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -82,15 +79,6 @@ program.swift file.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
