@@ -94,9 +94,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Swift][Swift]][Swift-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -198,8 +196,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
