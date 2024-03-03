@@ -211,5 +211,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[Swift.dev]: https://img.shields.io/badge/swift-V5.9-blue?logo=swift
+[Swift.dev]: https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white
 [Swift-url]: https://www.swift.org/
