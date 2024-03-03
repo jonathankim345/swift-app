@@ -48,12 +48,10 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -80,8 +78,8 @@ Hello! Before my interview on the XCode Development Team at Apple, I wanted to
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is just a project purely for my own learning so there is no need to set it up locally! Feel free to take a look at the comments and examples in the 
+program.swift file. 
 
 ### Prerequisites
 
@@ -96,7 +94,6 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,8 +103,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +122,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jonathan Kim - j744kim@uwaterloo.ca
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/jonathankim345/swift-app](https://github.com/jonathankim345/swift-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
